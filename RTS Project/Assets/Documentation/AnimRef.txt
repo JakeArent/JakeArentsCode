@@ -1,0 +1,5 @@
+Animation State Reference
+- State 0 is Idle
+- State 1 is Attacking
+- State 2 is Attack Move
+- States 3,4,5 are Death
